@@ -1,0 +1,10 @@
+Student Report (Criteria: Selected Criteria)
+
+Academic ID: 1
+Name: a
+Birth Date: 1111-11-1
+Address: a
+Contact Details: a@.
+Course Name: a
+Course Code: 1
+
